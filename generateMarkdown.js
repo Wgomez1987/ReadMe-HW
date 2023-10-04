@@ -46,7 +46,7 @@ This project is licensed under the ${license} license. For more information, ref
 function generateMarkdown(data) {
   return `
 
-
+## Badges
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
