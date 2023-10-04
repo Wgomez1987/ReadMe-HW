@@ -5,29 +5,29 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
-# 
+# SampleReadME
 
 ## Description
-
+My project dynamically creates Readme.
 
 ## Installation
-
+Dynamically.
 
 ## Usage
-
+Creating ReadME's dynamically.
 
 ## License
-BSD 3-Clause
+MIT
 
 ## Contributing
-
+N/A
 
 ## Tests
-
+N/A
 
 ## Contact
-
-You can reach me at 
+Wgomez1987
+You can reach me at gomez.william.a1@gmail.com
 
 ## Table Of Contents
 [Description](#description)
